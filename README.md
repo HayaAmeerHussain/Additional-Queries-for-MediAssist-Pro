@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/HayaAmeerHussain/your-repo.git
 Access Queries:
 Open the 'queries.sql' file in your preferred SQL editor or environment.
 
